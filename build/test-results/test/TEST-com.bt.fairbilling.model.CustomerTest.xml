@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.model.CustomerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:05" hostname="DESKTOP-PJI79NO" time="0.011">
+  <properties/>
+  <testcase name="addSessionEnd_WhenMatchingStartSession_ThenUpdatesSession" classname="com.bt.fairbilling.model.CustomerTest" time="0.007"/>
+  <testcase name="addSessionEnd_WhenMultipleMatchingStartSessionsAndAddingMultipleEndSessions_ThenUpdatesEachSessionOnceOnly" classname="com.bt.fairbilling.model.CustomerTest" time="0.0"/>
+  <testcase name="printOutput_WhenOneSession_ThenReturnsDetailsAsString" classname="com.bt.fairbilling.model.CustomerTest" time="0.002"/>
+  <testcase name="printOutput_WhenNoSessions_ThenReturnsDetailsAsString" classname="com.bt.fairbilling.model.CustomerTest" time="0.0"/>
+  <testcase name="addSessionEnd_WhenMultipleMatchingStartSessions_ThenUpdatesSessionWithClosestStartTimeToEndTime" classname="com.bt.fairbilling.model.CustomerTest" time="0.0"/>
+  <testcase name="addSessionStart_WhenNoError_ThenAddsNewSession" classname="com.bt.fairbilling.model.CustomerTest" time="0.0"/>
+  <testcase name="addSessionEnd_WhenStartSessionAfterEndSession_ThenAddsNewSession" classname="com.bt.fairbilling.model.CustomerTest" time="0.0"/>
+  <testcase name="addSessionEnd_WhenNoStartSession_ThenAddsNewSession" classname="com.bt.fairbilling.model.CustomerTest" time="0.0"/>
+  <testcase name="printOutput_WhenMultipleSessions_ThenReturnsDetailsAsString" classname="com.bt.fairbilling.model.CustomerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

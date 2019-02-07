@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.util.InstantUtilTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:07" hostname="DESKTOP-PJI79NO" time="0.005">
+  <properties/>
+  <testcase name="getInstantFromTime_WhenTimeIsNotValid_ThenThrowDateTimeException" classname="com.bt.fairbilling.util.InstantUtilTest" time="0.001"/>
+  <testcase name="getInstantFromTime_WhenTimeIsValid_ThenReturnsValidInstant" classname="com.bt.fairbilling.util.InstantUtilTest" time="0.003"/>
+  <testcase name="getInstantFromTime_WhenTimeIsNull_ThenThrowDateTimeException" classname="com.bt.fairbilling.util.InstantUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

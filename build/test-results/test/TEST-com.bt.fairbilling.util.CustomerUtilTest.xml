@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.util.CustomerUtilTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:06" hostname="DESKTOP-PJI79NO" time="0.592">
+  <properties/>
+  <testcase name="getCustomerListFromLogRecords_WhenLogRecordsHasAValidStartRecordForCustomer1AndEndRecordForCustomer2_ThenReturnsCustomerMapWithTwoCustomers" classname="com.bt.fairbilling.util.CustomerUtilTest" time="0.584"/>
+  <testcase name="getCustomerListFromLogRecords_WhenLogRecordsHasTwoValidStartRecordsForSameCustomer_ThenReturnsCustomerMapWithOneCustomer" classname="com.bt.fairbilling.util.CustomerUtilTest" time="0.001"/>
+  <testcase name="getCustomerListFromLogRecords_WhenLogRecordsHasTwoValidStartRecordsForDifferentCustomers_ThenReturnsCustomerMapWithTwoCustomers" classname="com.bt.fairbilling.util.CustomerUtilTest" time="0.002"/>
+  <testcase name="getCustomerListFromLogRecords_WhenLogRecordsHasAValidStartRecordAndEndRecordForOneCustomer_ThenReturnsCustomerMapWithOneCustomer" classname="com.bt.fairbilling.util.CustomerUtilTest" time="0.002"/>
+  <testcase name="getCustomerListFromLogRecords_WhenLogRecordsEmpty_ThenReturnsEmptyCustomerMap" classname="com.bt.fairbilling.util.CustomerUtilTest" time="0.001"/>
+  <testcase name="getCustomerListFromLogRecords_WhenLogRecordsHasOneValidRecord_ThenReturnsCustomerMapWithOneCustomer" classname="com.bt.fairbilling.util.CustomerUtilTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

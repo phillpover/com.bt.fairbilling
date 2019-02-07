@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.util.LogRecordUtilTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:07" hostname="DESKTOP-PJI79NO" time="0.466">
+  <properties/>
+  <testcase name="getLogRecordsFromFilePath_WhenExceptionGettingLogLines_ThenReturnsFairBillingException" classname="com.bt.fairbilling.util.LogRecordUtilTest" time="0.455"/>
+  <testcase name="getLogRecordsFromFilePath_WhenMultipleLogLinesReturned_ThenReturnsListWithAllLogRecord" classname="com.bt.fairbilling.util.LogRecordUtilTest" time="0.005"/>
+  <testcase name="getLogRecordsFromFilePath_WhenNoLogLinesReturned_ThenReturnsEmptyList" classname="com.bt.fairbilling.util.LogRecordUtilTest" time="0.001"/>
+  <testcase name="getLogRecordsFromFilePath_WhenOneLogLineReturned_ThenReturnsListWithOneLogRecord" classname="com.bt.fairbilling.util.LogRecordUtilTest" time="0.001"/>
+  <testcase name="getLogRecordsFromFilePath_WhenExceptionCreatingLogRecord_ThenAddsOtherLogRecords" classname="com.bt.fairbilling.util.LogRecordUtilTest" time="0.001"/>
+  <testcase name="getLogRecordsFromFilePath_WhenExceptionCreatingLogRecord_ThenDoesNotAddLogRecord" classname="com.bt.fairbilling.util.LogRecordUtilTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

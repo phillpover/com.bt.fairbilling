@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.model.LogRecordTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:05" hostname="DESKTOP-PJI79NO" time="0.022">
+  <properties/>
+  <testcase name="createLogRecord_WhenLogLineIncomplete_ThenThrowsFairBillingException" classname="com.bt.fairbilling.model.LogRecordTest" time="0.02"/>
+  <testcase name="createLogRecord_WhenTimeIncorrectlyFormatted_ThenThrowsFairBillingException" classname="com.bt.fairbilling.model.LogRecordTest" time="0.0"/>
+  <testcase name="createLogRecord_WhenNoError_ThenCreatesLogRecord" classname="com.bt.fairbilling.model.LogRecordTest" time="0.0"/>
+  <testcase name="createLogRecord_WhenNoStartEndIdentifyer_ThenThrowsFairBillingException" classname="com.bt.fairbilling.model.LogRecordTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

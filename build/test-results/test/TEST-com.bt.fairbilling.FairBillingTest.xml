@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.FairBillingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:05" hostname="DESKTOP-PJI79NO" time="0.81">
+  <properties/>
+  <testcase name="main_WhenArgumentsHasValidFilePathAndLogRecordsReturnedAndNoCustomerRecordsReturned_ThenThrowFairBillingException" classname="com.bt.fairbilling.FairBillingTest" time="0.78"/>
+  <testcase name="main_WhenNoError_ThenProcessesArguments" classname="com.bt.fairbilling.FairBillingTest" time="0.013"/>
+  <testcase name="main_WhenNoArguments_ThenThrowFairBillingException" classname="com.bt.fairbilling.FairBillingTest" time="0.002"/>
+  <testcase name="main_WhenArgumentsHasValidFilePath_ThenGetLogRecordsFromFile" classname="com.bt.fairbilling.FairBillingTest" time="0.003"/>
+  <testcase name="main_WhenArgumentsHasValidPathAndLogFileIsEmpty_ThenThrowFairBillingException" classname="com.bt.fairbilling.FairBillingTest" time="0.002"/>
+  <testcase name="main_WhenArgumentsHasValidFilePathAndLogRecordsReturned_ThenGetCustomerListFromLogRecords" classname="com.bt.fairbilling.FairBillingTest" time="0.003"/>
+  <testcase name="main_WhenArgumentsHasValidFilePathAndLogRecordsReturnedAndCustomersReturned_ThenPrintCustomersToStrings" classname="com.bt.fairbilling.FairBillingTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

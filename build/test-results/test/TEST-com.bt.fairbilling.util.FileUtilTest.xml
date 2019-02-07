@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.util.FileUtilTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:06" hostname="DESKTOP-PJI79NO" time="0.903">
+  <properties/>
+  <testcase name="getLinesFromFile_WhenNoLogLines_ThenReturnEmptyArrayList" classname="com.bt.fairbilling.util.FileUtilTest" time="0.684"/>
+  <testcase name="getLinesFromFile_WhenOneLogLine_ThenReturnsArrayListWithOneItem" classname="com.bt.fairbilling.util.FileUtilTest" time="0.065"/>
+  <testcase name="getLinesFromFile_WhenExceptionGettingFileFromPath_ThenThrowFairBillingException" classname="com.bt.fairbilling.util.FileUtilTest" time="0.059"/>
+  <testcase name="getLinesFromFile_WhenExceptionGettingLinesFromFile_ThenThrowFairBillingException" classname="com.bt.fairbilling.util.FileUtilTest" time="0.046"/>
+  <testcase name="getLinesFromFile_WhenMultipleLogLines_ThenReturnsArrayListWithAllItems" classname="com.bt.fairbilling.util.FileUtilTest" time="0.047"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

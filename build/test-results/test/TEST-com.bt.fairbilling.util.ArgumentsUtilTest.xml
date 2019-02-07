@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bt.fairbilling.util.ArgumentsUtilTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-07T13:24:05" hostname="DESKTOP-PJI79NO" time="0.01">
+  <properties/>
+  <testcase name="getArguments_WhenArgsHasMultipleValues_ThenReturnsArrayListWithArgsAsValues" classname="com.bt.fairbilling.util.ArgumentsUtilTest" time="0.009"/>
+  <testcase name="getArguments_WhenArgsIsEmpty_ThenReturnsEmptyArrayList" classname="com.bt.fairbilling.util.ArgumentsUtilTest" time="0.001"/>
+  <testcase name="getArguments_WhenArgsHasOneValue_ThenReturnsArrayListWithArgAsValue" classname="com.bt.fairbilling.util.ArgumentsUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
